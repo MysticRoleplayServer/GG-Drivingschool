@@ -25,7 +25,7 @@ function StopTheoryTest(success)
 end
 
 function StartDriveTest()
-	local coords = { x = 231.36, y = -1394.49, z = 30.5, h = 239.94 }
+	local coords = { x = -1081.2876, y = -1258.0718, z = 5.5449, h = 302.8054 }
 	local plate = "TSTDRIVE" .. math.random(1111, 9999)
 
 	QBCore.Functions.SpawnVehicle(Config.Vehicles, function(vehicle)
