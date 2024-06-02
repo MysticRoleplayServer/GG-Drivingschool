@@ -1,6 +1,6 @@
 var tableauQuestion = [
 	{
-		question: "If you're going 80 km/h, and you're approaching a residential area you must:",
+		question: "If you're going 80 mph, and you're approaching a residential area you must:",
 		propositionA: "You accelerate",
 		propositionB: "You keep your speed, if you do not pass other vehicles",
 		propositionC: "You slow down",
@@ -18,11 +18,11 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "Without any prior indication, the speed in a residential area is: __ km/h",
-		propositionA: "30 km/h",
-		propositionB: "50 km/h",
-		propositionC: "40 km/h",
-		propositionD: "60 km/h",
+		question: "Without any prior indication, the speed in a residential area is: __ mph",
+		propositionA: "25 mph",
+		propositionB: "35 mph",
+		propositionC: "45 mph",
+		propositionD: "55 mph",
 		reponse: "B"
 	},
 
@@ -72,11 +72,11 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "You are driving on a highway which indicates a maximum speed of 120 km/h. But most trafficers drive at 125 km/h, so you should not drive faster than:",
-		propositionA: "120 km/h",
-		propositionB: "125 km/h",
-		propositionC: "130 km/h",
-		propositionD: "110 km/h",
+		question: "You are driving on a highway which indicates a maximum speed of 75 mph. But most trafficers drive at 125 mph, so you should not drive faster than:",
+		propositionA: "75 mph",
+		propositionB: "85 mph",
+		propositionC: "65 mph",
+		propositionD: "95 mph",
 		reponse: "A"
 	},
 
